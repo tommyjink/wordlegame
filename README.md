@@ -1,5 +1,7 @@
 # WordleGame
 
+C++复刻小游戏WordleGame(猜单词)附下载链接
+
 - 最新版本：[wordlegame_ver1.0.3_windows](https://www.luogu.com.cn/fe/api/problem/downloadAttachment/3fwx7y6u)
 
 ## 更新日志：
